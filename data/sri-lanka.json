@@ -1,4 +1,45 @@
 {
+  "name": "Sri Lanka",
+  "conventional_long_name": "Democratic Socialist Republic of Sri Lanka",
+  "conventional_short_name": "Sri Lanka",
+  "former_name": "Ceylon",
+  "capital": "Sri Jayawardenepura Kotte",
+  "commercial_capital": "Colombo",
+  "population": {
+    "total": "20.3 million",
+    "density": "325 per sqkm",
+    "growth_rate": -0.65,
+    "life_expectancy_at_birth": {
+      "male": 78.6,
+      "female": 72.0,
+      "data_period": "2011-2013"
+    },
+    "literacy_rate": "93.1%",
+    "digital_literacy_rate": "60%",
+    "languages": [
+      {
+        "name": "Sinhala",
+        "lang_code": "si"
+      },
+      {
+        "name": "Tamil",
+        "lang_code": "ta"
+      },
+      {
+        "name": "English",
+        "lang_code": "en"
+      }
+    ]
+  },
+  "size": [
+    {
+      "area": "65610sqkm",
+      "land": "62705sqkm",
+      "inland_waters": "2905sqkm",
+      "lenght": "445km",
+      "width": "225km"
+    }
+  ],
   "provinces": [
     {
       "name": "Central",
