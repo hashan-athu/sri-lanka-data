@@ -3,5 +3,12 @@
 ### v1.0.0
 
 - Initial Realease
-- Basec Info about Sri Lanka
+- Basic Info about Sri Lanka
 - All provinces, districts, and cities are added
+
+
+### v1.0.1
+
+- Demographics data added
+- Geographical data added
+- National Symbols added
