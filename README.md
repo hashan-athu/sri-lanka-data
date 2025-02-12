@@ -11,11 +11,13 @@ A comprehensive JSON dataset containing essential information about Sri Lanka, i
 
 ## 📂 Repository Structure
 
-├── data/ │ ├── sri-lanka.json # Main dataset ├── changelog.md # Version history ├── LICENSE # Open-source license ├── README.md # Project documentation
-
-markdown
-Copy
-Edit
+```
+├── data/
+│   ├── sri-lanka.json   # Main dataset
+├── changelog.md         # Version history
+├── LICENSE             # Open-source license
+├── README.md           # Project documentation
+```
 
 ## 📥 Download & Usage
 
