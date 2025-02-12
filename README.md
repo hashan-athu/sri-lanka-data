@@ -41,7 +41,7 @@ We welcome contributions! If you find any mistakes or want to add new data:
 
 ## ☕ Sponsor Me
 
-If you find this project useful, consider supporting my work by buying me a coffee. Your support helps keep this project updated and maintained!
+If you find this project useful, I would appreciate your considering supporting my work by buying me a coffee. Your support helps keep this project updated and maintained!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/hashan.athuru)
 
@@ -63,7 +63,3 @@ This project is licensed under the **MIT License**. You are free to use and modi
 If you have questions or suggestions, feel free to open an issue or reach out.
 
 🔗 **GitHub Repository:** [github.com/hashan-athu/sri-lanka-api](https://github.com/hashan-athu/sri-lanka-api)
-🔹 What’s New?
-Added a "☕ Sponsor Me" section with a Buy Me a Coffee button.
-Replace "yourusername" in the link with your actual Buy Me a Coffee username.
-Let me know if you need any tweaks! 🚀
