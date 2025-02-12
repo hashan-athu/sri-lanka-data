@@ -11,13 +11,11 @@ A comprehensive JSON dataset containing essential information about Sri Lanka, i
 
 ## 📂 Repository Structure
 
-```
-├── data/
-│   ├── sri-lanka.json   # Main dataset
-├── changelog.md         # Version history
-├── LICENSE             # Open-source license
-├── README.md           # Project documentation
-```
+├── data/ │ ├── sri-lanka.json # Main dataset ├── changelog.md # Version history ├── LICENSE # Open-source license ├── README.md # Project documentation
+
+markdown
+Copy
+Edit
 
 ## 📥 Download & Usage
 
@@ -39,11 +37,18 @@ We welcome contributions! If you find any mistakes or want to add new data:
 2. **Make changes** and commit them.
 3. **Submit a Pull Request**.
 
+## ☕ Sponsor Me
+
+If you find this project useful, consider supporting my work by buying me a coffee. Your support helps keep this project updated and maintained!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/hashan.athuru)
+
 ## 📌 Versioning
 
 We follow **Semantic Versioning (`MAJOR.MINOR.PATCH`)**:
 
 - `1.0.0` → Initial release.
+- `1.0.1` → More data added.
 
 Check the full **[changelog](changelog.md)** for details.
 
@@ -56,3 +61,7 @@ This project is licensed under the **MIT License**. You are free to use and modi
 If you have questions or suggestions, feel free to open an issue or reach out.
 
 🔗 **GitHub Repository:** [github.com/hashan-athu/sri-lanka-api](https://github.com/hashan-athu/sri-lanka-api)
+🔹 What’s New?
+Added a "☕ Sponsor Me" section with a Buy Me a Coffee button.
+Replace "yourusername" in the link with your actual Buy Me a Coffee username.
+Let me know if you need any tweaks! 🚀
