@@ -47,6 +47,90 @@
     "multi_party_system": true,
     "election_cycle": "Every six years"
   },
+  "leaders": {
+    "presidents": [
+      {
+        "name": "William Gopallawa",
+        "term_start": "1972-05-22",
+        "term_end": "1978-02-04",
+        "party": "Independent",
+        "notes": "First President of Sri Lanka (formerly Ceylon). Served in a ceremonial role.",
+        "current" : 0
+      },
+      {
+        "name": "Junius Richard Jayewardene",
+        "term_start": "1978-02-04",
+        "term_end": "1989-01-02",
+        "party": "United National Party",
+        "notes": "Introduced the Executive Presidency in 1978, and assumed the position of president of Sri Lanka.",
+        "current" : 0
+      },
+      {
+        "name": "Ranasinghe Premadasa",
+        "term_start": "1989-01-02",
+        "term_end": "1993-05-01",
+        "party": "United National Party",
+        "notes": "Assassinated during a May Day rally by an LTTE suicide bomber.",
+        "current" : 0
+      },
+      {
+        "name": "Dingiri Banda Wijetunga",
+        "term_start": "1993-05-01",
+        "term_end": "1994-11-12",
+        "party": "United National Party",
+        "notes": "Prime Minister at the time of Premadasa's assassination. Appointed as acting president and continued in that capacity until 7 May 1993 when he was elected by Parliament to the office of president under Article 40 of the Constitution.",
+        "current" : 0
+      },
+      {
+        "name": "Chandrika Kumaratunga",
+        "term_start": "1994-11-12",
+        "term_end": "2005-11-19",
+        "party": "Sri Lanka Freedom Party",
+        "notes": "The first non-UNP president of the country.",
+        "current" : 0
+      },
+      {
+        "name": "Mahinda Rajapaksa",
+        "term_start": "2005-11-19",
+        "term_end": "2015-01-09",
+        "party": "Sri Lanka Freedom Party",
+        "notes": "Ended the 25-year-long Sri Lankan Civil War and LTTE insurgency in the country. Introduced the 18th Amendment to the Constitution, impeached Shirani Bandaranayake.",
+        "current" : 0
+      },
+      {
+        "name": "Maithripala Sirisena",
+        "term_start": "2015-01-09",
+        "term_end": "2019-11-18",
+        "party": "Sri Lanka Freedom Party",
+        "notes": "Ran as a candidate of the New Democratic Front and was mainly backed by the UNP. 19th Amendment to the Constitution.",
+        "current" : 0
+      },
+      {
+        "name": "Gotabaya Rajapaksa",
+        "term_start": "2019-11-18",
+        "term_end": "2022-07-14",
+        "party": "Sri Lanka Podujana Peramuna",
+        "notes": "Amassed extensive presidential powers through the 20th Amendment to the Constitution. Economic mismanagement led the country to an economic crisis, and a subsequent political crisis, when he refused to resign in response to massive anti-government protests.",
+        "current" : 0
+      },
+      {
+        "name": "Ranil Wickremesinghe",
+        "term_start": "2022-07-14",
+        "term_end": "2024-09-23",
+        "party": "United National Party",
+        "notes": "Appointed as acting president following the resignation of Gotabaya Rajapaksa, who fled the country amidst the 2022 Sri Lankan political crisis. On 20 July 2022 he was elected by Parliament to the office of president under Article 40 of the Constitution.",
+        "current" : 0
+      },
+      {
+        "name": "Anura Kumara Dissanayake",
+        "term_start": "2024-09-23",
+        "term_end": "",
+        "party": "Janatha Vimukthi Peramuna",
+        "notes": "Defeated Sajith Premadasa and Ranil Wickremesinghe in a three-way contest.",
+        "current" : 1
+      }
+    ]
+  },
   "geography": {
     "area": {
       "total": "65,610 sq km",
