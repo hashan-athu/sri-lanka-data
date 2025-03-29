@@ -1,5 +1,10 @@
 ## Changelog
 
+### v1.0.2
+
+- "Leaders" data section added
+- All president data included to leaders section 
+
 ### v1.0.1
 
 - Demographics data added

@@ -1,6 +1,6 @@
 # 🇱🇰 Sri Lanka Data API & JSON Dataset
 
-A comprehensive JSON dataset containing essential information about Sri Lanka, including provinces, districts, cities, and other relevant data. This dataset is publicly available for developers, researchers, and open-source enthusiasts.
+A comprehensive JSON dataset containing essential information about Sri Lanka, including provinces, districts, cities, and other relevant data. This dataset is publicly available for developers, researchers, and open-source enthusiasts. The data on the JSON are collected from official government websites and data are NOT altered or deformed during the process.
 
 ## 📌 Features
 
@@ -25,7 +25,7 @@ A comprehensive JSON dataset containing essential information about Sri Lanka, i
 
 You can download the latest JSON file directly from GitHub:
 
-- **[Latest Version](https://github.com/yourusername/sri-lanka-data/releases/latest)**
+- **[Latest Version](https://github.com/hashan-athu/sri-lanka-api/releases/latest)**
 
 ### **2️⃣ Use via API (Coming Soon!)**
 
@@ -50,7 +50,8 @@ If you find this project useful, I would appreciate your considering supporting 
 We follow **Semantic Versioning (`MAJOR.MINOR.PATCH`)**:
 
 - `1.0.0` → Initial release.
-- `1.0.1` → More data added.
+- `1.0.1` → Demographic, Geographic, National Symbols added.
+- `1.0.2` → Presidents data added
 
 Check the full **[changelog](changelog.md)** for details.
 
@@ -64,4 +65,4 @@ If you have questions or suggestions, feel free to open an issue or reach out.
 
 🔗 **GitHub Repository:** [github.com/hashan-athu/sri-lanka-api](https://github.com/hashan-athu/sri-lanka-api)
 
-[📧 Contact Me](mailto:hello@hashanathurugiriya.com)
+[📧 Contact Me](mailto:hello@hashanathurugiriya.me)
